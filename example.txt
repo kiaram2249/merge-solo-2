@@ -1,1 +1,2 @@
-This is just an example so that git log can work. 
+This is just an example so that git log can work.
+Another example- this is for my git add . 
